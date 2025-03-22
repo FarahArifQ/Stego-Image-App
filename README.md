@@ -1,8 +1,13 @@
 # Image Steganography App
 
- A Python-based Image Steganography tool to hide secret images within cover images using LSB (Least Significant Bit) technique.
+ A Python-based Image Steganography tool to hide secret images within cover images using LSB (Least Significant Bit) technique.  
+
+
+## Demo picture
 
 <img width="343" alt="image" src="https://github.com/user-attachments/assets/f435a440-4919-4e3d-be9a-5ccbd1c8cd9d" />
+
+---
 
 ## Features
 - Hide a secret image within a cover image.
@@ -31,15 +36,16 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
-2 Open the notebook in Google Colab or Jupyter Notebook.
+   
+2. Open the notebook in Google Colab or Jupyter Notebook.
 
 ---
 
-## Usage Example
-  Upload a cover image (e.g., landscape.jpg).
-  Upload a secret image (e.g., logo.png).
-  Encode the images and download the encoded image.
-  Use the app again to decode the hidden image.
+### **How to Use This**
+1. Open your `README.md` file in a text editor or directly on GitHub.
+2. Replace the existing content with the corrected version above.
+3. Save and commit the changes.
+
 
 ## Acknowledgments
 Special thanks to **Sir Ghulam Ali** for guidance.
@@ -47,6 +53,6 @@ Special thanks to **Sir Ghulam Ali** for guidance.
 ---
 
 ## Contact
-For questions or feedback, feel free to reach out:
-@faraharifqureshi@gmail.com
+For questions or feedback, feel free to reach out:  
+@faraharifqureshi@gmail.com  
 https://www.linkedin.com/in/faraharifqureshi/
