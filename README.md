@@ -41,12 +41,6 @@
 
 ---
 
-### **How to Use This**
-1. Open your `README.md` file in a text editor or directly on GitHub.
-2. Replace the existing content with the corrected version above.
-3. Save and commit the changes.
-
-
 ## Acknowledgments
 Special thanks to **Sir Ghulam Ali** (https://github.com/i-m-ali) for guidance.
 
