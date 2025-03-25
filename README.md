@@ -56,3 +56,9 @@ Special thanks to **Sir Ghulam Ali** for guidance.
 For questions or feedback, feel free to reach out:  
 @faraharifqureshi@gmail.com  
 https://www.linkedin.com/in/faraharifqureshi/
+
+---
+
+## Contributors
+Farah Arif (https://github.com/FarahArifQ) -Owner
+Instructor: Ghulam Ali (https://github.com/i-m-ali)
