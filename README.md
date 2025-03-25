@@ -32,15 +32,6 @@
 
 ---
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/FarahArifQ/Stego-Image-App
-   
-2. Open the notebook in Google Colab or Jupyter Notebook.
-
----
-
 ## Acknowledgments
 Special thanks to **Sir Ghulam Ali** (https://github.com/i-m-ali) for guidance.
 
